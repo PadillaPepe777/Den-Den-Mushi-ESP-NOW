@@ -10,10 +10,15 @@ it's reproducing the audio from the call
 
 Materials:
 ESP32 WROOM 38 pins (should work with other models)
+
 INMP441 I2S Microphone ADC
+
 PCMA I2S DAC
+
 Amplifier circuit
+
 Speaker
+
 PCB (if everything goes well)
 
 Servo Motors
