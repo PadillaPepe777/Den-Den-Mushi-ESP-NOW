@@ -1,3 +1,3 @@
-Este programa fue de prueba pra lograr una comunicacion clara en un sentido, solo va de Sender a Receiver de forma constante desde que se enciende.
-Se puede jugar con los valores de frecuenciay lectura de bits 16 o 32 (estos deben ser iguales para microfono y bocina), bytes enviados y el filtro pasabajos
-Aunque estos son los valores que mejor me funcionaron luego de varias pruebas
+This program was tested to achieve clear one-way communication, only going from Sender to Receiver constantly from the moment it's turned on. 
+You can experiment with the frequency and bit depth (16 or 32 bits; these must be the same for both microphone and speaker), bytes sent, and the low-pass filter.
+However, these are the values ​​that worked best for me after several tests.
