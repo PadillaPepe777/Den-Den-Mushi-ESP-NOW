@@ -1,0 +1,3 @@
+Este programa fue de prueba pra lograr una comunicacion clara en un sentido, solo va de Sender a Receiver de forma constante desde que se enciende.
+Se puede jugar con los valores de frecuenciay lectura de bits 16 o 32 (estos deben ser iguales para microfono y bocina), bytes enviados y el filtro pasabajos
+Aunque estos son los valores que mejor me funcionaron luego de varias pruebas
