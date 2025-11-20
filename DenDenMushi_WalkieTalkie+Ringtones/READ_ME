@@ -1,0 +1,7 @@
+Here we have the base code of the Den Den Mushi Walkie Talkie
+Still need to add the Servos, and maybe it could fail if it was hang up during someone speaking, but will upload later if thats the case
+The header files contain the Wav ringtones in a format to upload to the esp32 memory
+The flow is that both walkie talkie are in iddle state, then someone sends a call, waiting ringtone starts, stoping until the receiver answers the call with button 21
+After answering the call, both walkie talkie hear the answer sound, like in One Piece, but it can also happens that the emissor push the call button again and cancels the call
+
+If the call is answered, both walkie talkie enter the normal talking mode like in the basic walkie talkie folder, stopping when someone pushes the Call button 21, hearing the answer sound, ending the communication
