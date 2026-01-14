@@ -13,13 +13,19 @@ ESP32 WROOM 38 pins (should work with other models)
 
 INMP441 I2S Microphone ADC
 
-PCMA I2S DAC
+PCM5102A I2S DAC
+(Must have solder in the joints as shown in the nest image)
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/9b2d8d5e-c7d7-4256-8de5-8e98f2dd7806" />
 
-Amplifier circuit
+Amplifier circuit (With OPAMP LM386)
 
 Speaker
 
-PCB (if everything goes well)
+PCB for manufacture
 
 Servo Motors
 3D prints
+
+Also including a BMS circuit, step down and linear regulator for servvos, speaker and mcirocontrollers
+
+And 2 Li-on batteries
