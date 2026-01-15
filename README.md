@@ -29,3 +29,10 @@ Servo Motors
 Also including a BMS circuit, step down and linear regulator for servvos, speaker and mcirocontrollers
 
 And 2 Li-on batteries
+
+Progress at Janurary 24th 2026
+![IRL1](https://github.com/user-attachments/assets/dd682c66-7c50-46c7-96f1-151c3d46721f)
+![IRL2](https://github.com/user-attachments/assets/0a9634fc-212a-4594-89a9-e5c9eb77620f)
+![PCBS](https://github.com/user-attachments/assets/4e0644ae-9e6a-440c-a125-3dab46ce7aac)
+
+
