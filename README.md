@@ -36,3 +36,10 @@ Progress at Janurary 24th 2026
 ![PCBS](https://github.com/user-attachments/assets/4e0644ae-9e6a-440c-a125-3dab46ce7aac)
 
 
+Final first Prototype photo (I will attach a link to my YouTube Video about it to demostrate it's functionality
+
+![DenDenMushi_FinalForm](https://github.com/user-attachments/assets/1735876a-cfda-4b65-a537-d0a9a0ac02c6)
+
+https://youtu.be/OOOR9_c7WgU?si=kHnlmn8EDtVqr4cH
+
+I will be happy to receive feedback or questions, Thank you so much for Being Here
